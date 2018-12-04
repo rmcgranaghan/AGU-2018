@@ -17,7 +17,7 @@ Contained within this directory are:
     - "Machine Learning in Space Weather" (https://bit.ly/2PZbg1S)
     
     
-- Materials related to the my Town Hall Session: "Data Science and a New Scientific Frontier in Space Science" (https://bit.ly/2Dgfhbe) 
+- Materials related to my Town Hall Session: "Data Science and a New Scientific Frontier in Space Science" (https://bit.ly/2Dgfhbe) 
 
     
       
