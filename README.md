@@ -11,6 +11,8 @@ Contained within this directory are:
     - "New understanding of multiscale field-aligned currents and scientific and technological impact on the magnetosphere-ionosphere-thermosphere system" (https://bit.ly/2rl6hdD)
         - pdf
         - document with references and acknowledgements
+        - Presentation exploring the relationship between Field-Aligned Currents (FACs) and Total Electron Content (TEC)
+        - Movie showing an event study (December 20, 2015) with multi-observation data (FACs from AMPERE and Swarm, TEC from the Canadian High Arctic Ionospherice Network (CHAIN), and Equivalent Ionospheric Currents (EICs)), exploring the relationship between these parameters
 
 - Materials related to the two conference sessions that I convened: 
     - "Convergence in Space Physics and Earth Science: Discovery Through Machine Learning" (https://bit.ly/2Pm4XFO)
