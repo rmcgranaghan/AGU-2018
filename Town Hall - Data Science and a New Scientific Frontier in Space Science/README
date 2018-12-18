@@ -1,0 +1,38 @@
+
+
+This directory holds information (presentations, links, and recordings) related to the Town Hall Session: Data Science and a New Scientific Frontier in Space Science (https://bit.ly/2Dgfhbe)
+
+Here are the details of that session: 
+
+Abstract:
+In light of drastic data growth and the advent of data-intensive computing capabilities and sophisticated data science technologies, profound new opportunities now exist to transform research across all fields of science and engineering. These new opportunities are accompanied by important challenges, which are being discussed and navigated across scientific communities and coordinating groups. The goal of this town hall is to bring together these communities and groups from the field of space science to discuss cohesive approaches to the development of appropriate data infrastructures and to the creation of data-capable workforces. Though the emphasis will be on the discipline of space science, the discussion will be decidedly broad, addressing the connections between disciplines through methodology transfer. 
+ 
+This town hall will provide a brief introduction to current efforts to transform the field of space science through data-driven discovery, including the National Science Foundation’s “Harnessing the Data Revolution”, the National Academy of Sciences Space Studies Board’s “Best Practices for a Future Open Code Policy for NASA Space Science”, and the NASA "Frontier Development Laboratory". The session will feature updates from each agency and provide a discussion period for the community to engage with agency representatives.
+
+Agenda:
+1. 6:15-6:20 PM Opening Remarks: Ryan McGranaghan
+2. 6:20-6:30 PM National Science Foundation’s “Harnessing the Data Revolution”
+    *  Cyberinfrastructure for Sustained Scientific Innovation (CSSI) perspective: Amy Walton (NSF)
+        * How do you go from data to discovery (from data discovery tools to knowledge discovery tools)? 
+        * Going from foundational research into discipline-specific progress across a number of disciplines
+3. 6:30-6:40 PM National Academy of Sciences Space Studies Board’s “Best Practices for a Future Open Code Policy for NASA Space Science”
+    *  Chelle Gentemann (National Academy of Sciences co-chair for the Best Practices for a Future Open Code Policy for NASA Space Science report and sit on the NAS standing Committee on Earth Science and Applications from Space (CESAS))
+4. 6:40-6:50 PM NASA "Frontier Development Laboratory” and public-private partnerships
+    *  Lika Guhathakurta (NASA HQ/Ames & FDL)
+5. 6:50-7:10 PM Updates
+    * NASA HQ SMD Strategic Initiative for Scientific Data and Computing: Jeff Hayes (NASA HQ SMD)
+    *  Full data lifecycle perspective: Dan Crichton (NASA JPL)
+    *  Analytics-as-a-service perspective: Mike Little (NASA GSFC)
+    * Industry perspective: Matt Hancher - Google
+6. Q&A as time permits (allowing audience to dictate direction of conversation)
+
+
+Goals -- speaker specifically charged to address:
+* Highlight the impact of data science across Earth and Space Sciences -- Amy Walton, Mike Little, Dan Crichton, Madhulika Guhathakurta
+* Illustrate data science and methodology transfer as means to create convergence in three critical ways: 
+    * Across institutions (e.g., NSF, NASA, NAS) -- Chelle Gentemann, Jeff Hayes, Amy Walton, Mike Little
+    * Across disciplines (e.g., Earth Science and Space Science) -- All speakers should highlight the discipline-agnostic foundation/quality/property of their material
+    * Across sectors (e.g., public and private) -- Madhulika Guhathakurta, Matt Hancher
+* Provide platform to discuss the characteristics of success and challenges faced in embracing data science in science and engineering -- All speakers
+
+
